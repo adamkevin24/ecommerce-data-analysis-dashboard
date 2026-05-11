@@ -59,3 +59,7 @@ streamlit run dashboard.py
 
 ## Dataset
 Dataset yang digunakan merupakan data e-commerce yang mencakup informasi pelanggan, pesanan, produk, dan pembayaran.
+
+## Live Dashboard
+Berikut aku lampirkan link yang bisa mengarah kan ke live dashboard
+https://ecommerce-data-analysis-dashboard-gncqekegs9cn3tm7gr4tup.streamlit.app/
